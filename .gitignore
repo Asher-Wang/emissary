@@ -99,7 +99,7 @@ ambassador-secrets-deployment.yaml
 # far enough in to the past.
 
 # 2020-08-20
-/cxx/envoy/
+# /cxx/envoy/
 /cxx/envoy-static
 /cxx/envoy-build-image.txt
 /cxx/envoy-build-container.txt
